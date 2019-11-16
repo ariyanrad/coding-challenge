@@ -7,7 +7,7 @@ for i in range(x):
 
 
 
-# making homogine triangle
+# making isosceles triangle
 
 for i in range(x):
     print("{}".format((star*i).center(x+1)))
