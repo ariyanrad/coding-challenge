@@ -1,4 +1,13 @@
 # making right trinagle
+'''
+like this:
+*
+**
+***
+****
+*****
+******
+'''
 
 x = int(input('inter the hight of triangle: '))
 star = "*"
